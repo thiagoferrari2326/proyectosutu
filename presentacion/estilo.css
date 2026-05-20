@@ -1,0 +1,19 @@
+ 
+body {
+    background-color: red;
+    text-align: center;
+    font-family:  Grid Double, sans-serif;
+}
+table {
+    margin: 20px auto;
+}
+img {
+    display: inline-block;
+}
+
+.img-chica {
+    margin-right: -150px;
+}
+footer {
+    background-color: rgb(175, 36, 36);
+}
