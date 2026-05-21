@@ -1,0 +1,21 @@
+.header{
+background-color: chartreuse;
+display: flex;
+justify-content: space-between;
+
+}
+
+.nombre{
+    background-color: gold;
+
+}
+
+.links{
+ display: flex;
+justify-content: space-between;
+width: 55%;
+}
+
+.contbody{
+    background-color: rgb(98, 167, 29);
+}
